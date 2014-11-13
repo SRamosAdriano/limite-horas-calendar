@@ -1,4 +1,23 @@
-limite-horas-calendar
-=====================
+Projeto: limite-horas-calendar
+========================
+Author: Adriano Santos Ramos <br>
+Tecnologias: Java <br>
+Sumário: Exemplo de CRUD JDBC <br>
+Source: http://goo.gl/jwnyKu
 
-Valida limite de horas em um calendario
+Informação
+-----------
+
+Valida limite de horas em um calendario.  
+
+
+Requerimentos
+-------------------
+
+--
+
+Acesso para a aplicação
+---------------------
+
+Executar a classe ValidaLimite
+
