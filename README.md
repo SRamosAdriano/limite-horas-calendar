@@ -2,7 +2,7 @@ Projeto: limite-horas-calendar
 ========================
 Author: Adriano Santos Ramos <br>
 Tecnologias: Java <br>
-Sumário: Exemplo de CRUD JDBC <br>
+Sumário: Validação <br>
 Source: http://goo.gl/jwnyKu
 
 Informação
